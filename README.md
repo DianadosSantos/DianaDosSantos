@@ -14,13 +14,32 @@
 <br/>
 <br/>
   
-<div style="display: inline_block"><br />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="pic" height="160" style="border-radius:30px;" src="https://avatars.githubusercontent.com/u/91295241?s=400&u=7bed7fde69fd0615c803b24b21ae648e50bd54d9&v=4">
+<div>
+<!-- BASIC -->
+    <img src="imgs/html.svg" height="45" alt="html" title="HTML5">
+    <img src="imgs/vazio.png" width="10" alt="espaço">
+    <img src="imgs/css.svg" height="45" alt="css"title="CSS3">
+    <img src="imgs/vazio.png" width="10" alt="espaço">
+<!-- LANGUAGE -->
+    <img src="imgs/javascript.svg" height="45" alt="javascript" title="JAVASCRIPT ES6">
+    <img src="imgs/vazio.png" width="10" alt="espaço">
+<!-- FRONT-END -->
+    <img src="imgs/angular.svg" height="45" alt="angular"title="ANGULAR 12">
+    <img src="imgs/vazio.png" width="10" alt="espaço">
+<!-- BACK-END -->
+    <img src="imgs/express.svg" height="45" alt="express"title="EXPRESS">
+    <img src="imgs/vazio.png" width="10" alt="espaço">
+    <img src="imgs/node.svg" height="45" alt="node"title="NODE.JS">
+    <img src="imgs/vazio.png" width="10" alt="espaço">
+<!-- STYLE -->
+    <img src="imgs/bootstrap.svg" height="45" alt="bootstrap"title="BOOTSTRAP 5">
+    <img src="imgs/vazio.png" width="10" alt="espaço">
+<!-- DATABASE -->
+    <img src="imgs/mysql.svg" height="45" alt="mysql"title="MYSQL">
+    <img src="imgs/vazio.png" width="10" alt="espaço">
+    <img src="imgs/mongo.svg" height="45" alt="mongodb"title="MONGODB">
+    <img src="imgs/vazio.png" width="10" alt="espaço">
+    <img src="imgs/firebase.svg" height="45" alt="firebase"title="FIREBASE">
 </div>
   
 ##
